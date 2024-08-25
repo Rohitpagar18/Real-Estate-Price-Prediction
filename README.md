@@ -1,3 +1,4 @@
 # Real-Estate-Price-Prediction
 
 The aim of this project is to predict real estate prices based on various factors using different machine learning models. The dataset used contains information on property transactions, including attributes such as house age, distance to the nearest MRT station, number of convenience stores nearby, latitude, and longitude. The target variable is the house price per unit area.
+This project demonstrates the use of various regression techniques to predict real estate prices based on several influencing factors. By carefully cleaning the data, removing outliers, and selecting appropriate models, it provides an effective approach to understanding and predicting house prices. The models can be further fine-tuned, or more sophisticated techniques can be applied to improve predictions and gain deeper insights into the real estate market dynamics.
